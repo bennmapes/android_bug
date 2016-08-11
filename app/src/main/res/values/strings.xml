@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Bug</string>
+    <string name="hint_test_desc">Update Text View</string>
+</resources>
